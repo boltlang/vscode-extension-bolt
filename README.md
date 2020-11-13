@@ -2,12 +2,14 @@ Bolt
 ====
 
 This is an plugin providing experimental support for the Bolt programming
-language.
+language in Visual Studio Code.
 
 ## Planned Features
 
  - Syntax highlighting with contextual information from the compiler
  - Rich type hints that appear whenever you hover an expression
+ - Integration with the build tools
+ - A debugger that works independently from the target platform
 
 ## Extension Settings
 
